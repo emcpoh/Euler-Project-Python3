@@ -14,5 +14,4 @@ while flag != True:
         flag = True
     else:
         num = int(input("Вы указали неверное число, попробуйте снова:  "))
-
-
+#New commit check
